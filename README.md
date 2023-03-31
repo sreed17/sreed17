@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreekanth D</h1>
-<h3 align="center">Digital Craftman from India, Design and fullStack Development.</h3>
+<h3 align="center"> Designer and fullStack Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sreed17.github.io/](https://sreed17.github.io/)
 
